@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-agency-app/static/css/main.a801e251.chunk.css",
+    "main.js": "/react-agency-app/static/js/main.1896bfe1.chunk.js",
+    "main.js.map": "/react-agency-app/static/js/main.1896bfe1.chunk.js.map",
+    "runtime-main.js": "/react-agency-app/static/js/runtime-main.4179ea31.js",
+    "runtime-main.js.map": "/react-agency-app/static/js/runtime-main.4179ea31.js.map",
+    "static/js/2.104070bc.chunk.js": "/react-agency-app/static/js/2.104070bc.chunk.js",
+    "static/js/2.104070bc.chunk.js.map": "/react-agency-app/static/js/2.104070bc.chunk.js.map",
+    "index.html": "/react-agency-app/index.html",
+    "static/css/main.a801e251.chunk.css.map": "/react-agency-app/static/css/main.a801e251.chunk.css.map",
+    "static/js/2.104070bc.chunk.js.LICENSE.txt": "/react-agency-app/static/js/2.104070bc.chunk.js.LICENSE.txt",
+    "static/media/BRAND.f8b8a9a3.png": "/react-agency-app/static/media/BRAND.f8b8a9a3.png",
+    "static/media/estadio.fc0353d6.jpg": "/react-agency-app/static/media/estadio.fc0353d6.jpg",
+    "static/media/jugador2.536c3b03.jpg": "/react-agency-app/static/media/jugador2.536c3b03.jpg",
+    "static/media/jugador3.5a636b2f.jpg": "/react-agency-app/static/media/jugador3.5a636b2f.jpg",
+    "static/media/jugador4.10da960f.jpg": "/react-agency-app/static/media/jugador4.10da960f.jpg",
+    "static/media/jugador5.66facf61.jpg": "/react-agency-app/static/media/jugador5.66facf61.jpg",
+    "static/media/messi.936dd5c8.png": "/react-agency-app/static/media/messi.936dd5c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4179ea31.js",
+    "static/js/2.104070bc.chunk.js",
+    "static/css/main.a801e251.chunk.css",
+    "static/js/main.1896bfe1.chunk.js"
+  ]
+}
